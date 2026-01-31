@@ -150,7 +150,7 @@
 |--------|-------------|----------|
 | 🤖 **AI/ML** | PyTorch, Transformers, scikit-learn | LawyerAI, Price Prediction |
 | 🎙️ **Voice AI** | Whisper, Speech Recognition, TTS | JarvisAI Voice System |
-| 🖼️ **Natural Language Processing** | NLP | LawyerAI |
+| 📝 **Natural Language Processing** | NLP | LawyerAI |
 | 📊 **Data Science** | Pandas, NumPy, Regression | TruthGuard |
 | 💻 **Full Stack** | Streamlit, HTML/CSS, Python | Price Prediction, Portfolio |
 | 🔧 **System Programming** | C, Algorithms, CLI Apps | Billing System |
