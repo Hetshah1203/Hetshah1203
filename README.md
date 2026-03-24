@@ -138,6 +138,30 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hetshah1203&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetshah1203&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hetshah1203&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
 ## 📬 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/het-shah-365233306/
