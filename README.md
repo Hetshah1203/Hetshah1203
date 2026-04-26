@@ -1,15 +1,7 @@
-<div align="center">
-
-# 👋 Hi, I’m Het Shah  
-
-🚀 Building **AI-powered systems** that solve real-world problems  
-🤖 Focused on **Machine Learning | LLMs | Intelligent Automation**  
-🌱 Scaling from **projects → production-ready AI products**  
-💞️ Open to **high-impact collaborations**  
-
----
-
-📫 **hetshah1232@gmail.com**  
-📍 Pune, India  
-
-</div>
+- 👋 Hi, I’m Het Shah  
+- 🚀 Building AI-powered systems that solve real-world problems  
+- 🤖 Passionate about Machine Learning, LLMs, and intelligent automation  
+- 🌱 Scaling from projects → production-ready AI products  
+- 💞️ Open to collaborating on impactful AI-driven ideas  
+- 📫 How to reach me: hetshah1232@gmail.com  
+- 📍 Pune, India  
