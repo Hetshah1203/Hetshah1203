@@ -3,5 +3,5 @@
 - 🤖 Passionate about Machine Learning, LLMs, and intelligent automation  
 - 🌱 Scaling from projects → production-ready AI products  
 - 💞️ Open to collaborating on impactful AI-driven ideas  
-- 📫 How to reach me: hetshah1232@gmail.com 
+- 📫 How to reach me: hetshah1232@gmail.com
 - 📍 Pune, India  
